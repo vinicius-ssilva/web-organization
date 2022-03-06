@@ -1,6 +1,7 @@
 *{
-    margin: 0%;
-
+    margin-left: 0px;
+    margin-top: 0px;
+    
 
 }
 
@@ -62,27 +63,14 @@ p{
    height: 30px;
 }
 footer{
-    margin-top: 50px;
+    margin-top: 40px;
     
 }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-#pgs{
- 
-    margin: 20% 20%;
-=======
 #nav2{
->>>>>>> Stashed changes
 
    margin-top: 20px;
     margin-left:  47%;
 }
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-
-=======
 #pgs{
     margin-right: 2%;
 }
->>>>>>> Stashed changes
