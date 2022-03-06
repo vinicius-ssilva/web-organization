@@ -6,9 +6,15 @@
 }
 
 #res{
+    margin: auto;
+    border: 3px double ;
+    width: 20%;
     text-align: center;
-    margin: 8%;
+   
+    margin-left: auto;
     font-size: 20px;
+    margin-bottom: 10px;
+    color: rgb(18, 49, 79);
 }
 h1{
   
@@ -19,14 +25,14 @@ h1{
 }
 header{
     padding: 8px;
-    background-color: rgb(28, 39, 60);
-    width: 100%;
+    background-color: rgb(31, 42, 61);
+    width: 98.4%;
     height: 120px;
     box-shadow: 5px 5px 5px black;
 }
 
 main{
-   margin-left: 4%;
+   margin: auto;
 text-align: center;
     width: 90%;
     height: auto;
@@ -64,13 +70,22 @@ p{
 }
 footer{
     margin-top: 40px;
-    
+    text-align: center;
 }
 #nav2{
 
    margin-top: 20px;
     margin-left:  47%;
 }
+
 #pgs{
+    font-size: 20px;
+    margin-right: auto;
+    color: rgb(4, 1, 1);
+    text-decoration: none;
+}
+#pgs:hover{
     margin-right: 2%;
+    color: rgb(104, 84, 84);
+    text-decoration:underline;
 }
