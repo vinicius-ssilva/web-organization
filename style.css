@@ -1,6 +1,6 @@
 *{
-    margin-left: 0px;
-    margin-top: 0px;
+    margin: 0%;
+
 
 }
 
@@ -25,7 +25,7 @@ header{
 }
 
 main{
-   margin-left: 5%;
+   margin-left: 4%;
 text-align: center;
     width: 90%;
     height: auto;
@@ -62,17 +62,27 @@ p{
    height: 30px;
 }
 footer{
-    margin-bottom: 15px;
+    margin-top: 50px;
+    
 }
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 #pgs{
  
     margin: 20% 20%;
+=======
+#nav2{
+>>>>>>> Stashed changes
 
-    color: black;
-
- 
+   margin-top: 20px;
+    margin-left:  47%;
 }
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 
+=======
+#pgs{
+    margin-right: 2%;
+}
+>>>>>>> Stashed changes
